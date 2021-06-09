@@ -1,8 +1,7 @@
 # All experience comes from mistakes.
 
 - 👋 Hi, I’m @Golds-l
-- 👀 I’m interested in machine learning and cv
-- 🌱 I’m currently learning computer vision
+- 👀 computer vision and machine learning
 - 📫 How to reach me->my e-mail 3365638834@qq.com 
 
 <!---
